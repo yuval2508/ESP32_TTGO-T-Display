@@ -1,3 +1,3 @@
-# ESP32_TTGO-T-Display
+# ESP32_TTGO-T-Display Enclosure
 
 An enclosure for TTGO T-Display ESP32 MCU for 3D print + STEP file for customizations.
